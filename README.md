@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Rafael Ferreira! 😃
+### Hi there! 😃
 
 [![Blog](https://img.shields.io/website?label=kyoleht.com&style=for-the-badge&url=https://sujeitoprogramdor.com/)](https://kyoleht.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ra.fa.elf/)
@@ -18,7 +18,7 @@
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Uma máquina consegue fazer o trabalho de 50 homens ordinários. Nenhuma máquina consegue fazer o trabalho de um homem extraordinário.
+Software Enginner | Web Developer | Back End - PHP, JavaScript, , C#, .NET, Java, Laravel, MySQL, Node.js 
 
 ## Contato:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafaelferreiradasilva1145@gmail.com)
