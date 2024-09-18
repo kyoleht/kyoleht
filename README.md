@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ra.fa.elf/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ferreira-9b900324a/)
 
-[![Kyoleht GitHub stats](https://github-readme-stats.vercel.app/api?kyoleht=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Kyoleht GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoleht)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no dia
 
