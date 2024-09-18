@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d86ccc74-818f-4ea1-ac85-27c54b4371f8)![image](https://github.com/user-attachments/assets/67e90aae-9b2e-4c4b-a079-8dc87976c674)![image](https://github.com/user-attachments/assets/22217fb6-2972-4470-89fa-cc2bbd5fc79b)
+
 ### Hi there! 😃
 
 [![Blog](https://img.shields.io/website?label=kyoleht.com&style=for-the-badge&url=https://sujeitoprogramdor.com/)](https://kyoleht.com)
