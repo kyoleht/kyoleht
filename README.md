@@ -7,7 +7,7 @@
 
 [![Kyoleht GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kyoleht&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-## Tecnologias que eu uso no dia
+## Tecnologias
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoleht&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,7 +18,7 @@
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Software Enginner | Web Developer | Back End - PHP, JavaScript, , C#, .NET, Java, Laravel, MySQL, Node.js 
+Software Enginner | Web Developer | Back End - JavaScript, Java, MySQL 
 
 ## Contato:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafaelferreiradasilva1145@gmail.com)
